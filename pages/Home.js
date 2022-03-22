@@ -9,7 +9,7 @@ const Home = () =>{
         
     <View>
         <Header active="home" />
-        <Text>This is homepage</Text>
+        <Text>Meesh is the boss</Text>
         <Helmet>
                 <meta charSet="utf-8" />
                 <title>Fonder</title>
