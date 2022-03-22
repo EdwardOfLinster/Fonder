@@ -8,10 +8,11 @@ import Submission from "./pages/Submission";
 import "./css/reset.css";
 import "./css/main.css";
 
-
+//HI
 const App = () => {
   return (
       <BrowserRouter forceRefresh={true}>
+    
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="support" element={<Support />} />
